@@ -18,3 +18,7 @@
 ## Scenario
 ### DFIR
 <br>
+
+
+## Resources
+[Cyber Chef](https://gchq.github.io/CyberChef/)
