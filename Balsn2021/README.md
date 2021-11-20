@@ -22,3 +22,9 @@ Attachment:
 - [trinity.zip](https://balsnctf-challenges-2021.s3.amazonaws.com/trinity/0edbccda4684dc24af1062ae02c43d0c3320fb9f3991672f7777b97bcea8be9b.zip)
 
 Author: sasdf
+
+
+## Resources
+[birthday paradox](https://www.teamten.com/lawrence/puzzles/birthday_paradox.html)
+
+
