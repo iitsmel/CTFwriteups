@@ -9,3 +9,6 @@ Alter the number after id.
 Change id to 1, will become admin.
 And then save post.
 
+- http://35.190.155.168/2cbe41cb09/index.php/index.php?page=view.php&success=1&id=945&message=
+Hint: 189 * 5
+
