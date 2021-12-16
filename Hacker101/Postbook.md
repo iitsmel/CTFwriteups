@@ -5,3 +5,7 @@ Alter the number after id.
 
 - easy passward for 'user'
 
+- http://35.190.155.168/2cbe41cb09/index.php?page=edit.php&id=1
+Change id to 1, will become admin.
+And then save post.
+
